@@ -73,8 +73,6 @@ Confusion Matrix → evaluates prediction accuracy
 Python
 pandas
 <img width="1126" height="445" alt="line" src="https://github.com/user-attachments/assets/8d3a50f8-a501-433f-aa25-6e927dacb966" />
-<img width="1134" height="420" alt="bar" src="https://github.com/user-attachments/assets/eda9a13c-7078-4a42-9ff7-401d7828adb3" />
-<img width="1128" height="424" alt="scatter" src="https://github.com/user-attachments/assets/8471b6de-5932-4179-a949-28567ea03564" />
 
 
 
