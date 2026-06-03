@@ -54,6 +54,14 @@ Used class weighting to handle data imbalance
 Applied hyperparameter tuning using GridSearchCV with recall as the scoring metric
 Developed training and evaluation pipelines
 Saved the trained model for reuse
+📊 Interactive Dashboard
+
+An interactive analytics dashboard was developed to provide a user-friendly interface for exploring diabetes prediction results and patient health metrics. The dashboard enables users to visualize key insights through charts and graphs, including feature distributions, diabetes outcome trends, confusion matrix results, ROC curve analysis, and feature importance rankings. It allows healthcare professionals and analysts to better understand model performance and identify the most influential factors contributing to diabetes risk. The dashboard improves data interpretability and supports informed decision-making by presenting complex analytical results in a clear and accessible format.
+
+<img width="832" height="415" alt="dashboardvis" src="https://github.com/user-attachments/assets/e5e2fe54-f21c-4131-9be4-a128a940a8e6" />
+<img width="790" height="391" alt="dashboard3" src="https://github.com/user-attachments/assets/2516c2e3-1c55-4833-8ade-73ce3eca999e" />
+
+
 📈 4. Visualization
 
 Visualization tools were used to evaluate and interpret the model:
